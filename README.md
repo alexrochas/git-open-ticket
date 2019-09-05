@@ -1,4 +1,4 @@
-# git-jira
+# git-open-ticket
 > minor python function to open Jira ticket in browser from a branch name
 
 ## How?
